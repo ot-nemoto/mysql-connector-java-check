@@ -20,7 +20,8 @@
 		"vscode": {
 			"extensions": [
 				"vscjava.vscode-java-pack",
-				"redhat.vscode-xml"
+				"redhat.vscode-xml",
+				"redhat.fabric8-analytics"
 			]
 		}
 	}
