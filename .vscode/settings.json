@@ -1,0 +1,8 @@
+{
+    "java.format.settings.url": "eclipse-formatter.xml",
+    "editor.formatOnSave": true,
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
